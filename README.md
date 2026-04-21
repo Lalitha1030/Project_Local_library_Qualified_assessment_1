@@ -19,4 +19,5 @@ homes.js code
 <img width="1407" height="400" alt="image" src="https://github.com/user-attachments/assets/9cdf99bd-c99f-4da6-95b3-4fa7dd2a2dde" />
 
 commits history:
-<img width="1312" height="716" alt="image" src="https://github.com/user-attachments/assets/a7ef76d7-9676-4455-b49a-9aaef16dbd74" />
+<img width="1348" height="895" alt="image" src="https://github.com/user-attachments/assets/06146092-1986-443c-bdcf-783b8fc18f87" />
+
